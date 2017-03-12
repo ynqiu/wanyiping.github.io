@@ -5,7 +5,7 @@ layout: post
 
 ## 寻一寸天地，安放心灵，输出精彩
 
-![](https://img1.doubanio.com/view/note/large/public/p41165488.jpg)
+![](https://img3.doubanio.com/view/note/large/public/p41206223.jpg)
 
 七十多岁的怀特在低头写作，神情专注。
 
