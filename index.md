@@ -1,18 +1,18 @@
 ---
-title: Why Blog
+title: My Blog
 layout: post
 ---
 
-## 对博客的理解
+## 找一寸天地，安放心灵
+![](https://img1.doubanio.com/view/note/large/public/p41165488.jpg)
+一个七十多岁的怀特在低头写作，神情专注。打字机那头的世界精彩到极致，这头的世界却平常到极致。
 
-我们每个人的在网络上产生的数据越来越多，这些信息是我们在互联网上存在过的痕迹，值得我们认真对待。但是它们被分散分布在各个网站上。很多时候我们很难将它们聚合在一起，而且各个网站的信息排布方式也没有办法自由控制，所以我们需要一个可以由自己主宰的空间——博客。
+书桌是最简单的式样，连桌边倒角也不事打磨。桌上角落孤零零摆了一个烟灰缸，桌下是张平板木头椅。不远处有一个废纸篓，算得上显眼的陈设。
 
-通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间。
-
-分类有助于我们对信息的隔离，例如我把自己的记录分成这几类：技术、工具、资源、生活、读书和旅游。这是我生活重中最重要的几个类别，我希望把自己的一些心得和尝试写在相应分类中。
+希望我的博客也能简简单单，但足够安放心灵，输出精彩。
 
 ## 博客平台
 
-这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
+这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，感谢 [Peiwen Lu](https://github.com/P233) 和[suyan](https://github.com/suyan/suyan.github.io)开发出这么漂亮的主题。
 
-我博客的源码托管在[Github](https://github.com/suyan/suyan.github.io)上，如果有任何改进意见，欢迎讨论。
+我博客的源码托管在[Github](https://github.com/wanyiping/wanyiping.github.io)上，如果有任何改进意见，欢迎讨论。
