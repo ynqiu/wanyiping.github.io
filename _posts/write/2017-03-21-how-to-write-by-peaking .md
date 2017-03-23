@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 刻意练习与写作训练
-category: 技巧
+category: 写作
 tags: 写作
 keywords: 写作,刻意练习
 description: 
