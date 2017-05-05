@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 时间的认知升级
+title: 我对时间的认知
 
 category: 生活
 
