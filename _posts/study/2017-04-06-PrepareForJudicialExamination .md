@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 零基础备战司考
+title: 备战司法考试
 category: 聪明的学习者
 tags: 学习方法
 keywords: 司考,学习
