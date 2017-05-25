@@ -3,7 +3,7 @@ title: My Blog
 layout: post
 ---
 
-## 寻一寸天地，安放心灵，输出精彩
+## 用作品构建人生的意义
 
 七十多岁的怀特在低头写作，神情专注。
 ![怀特的小屋](https://github.com/wanyiping/wanyiping.github.io/blob/master/assets/img/my_blog.jpg?raw=true)
@@ -11,7 +11,7 @@ layout: post
 
 打字机这头的世界平常到极致，那头的世界却精彩到极致。
 
-希望我的博客，如这小屋般简单。
+希望我的博客，如这木屋。虽小，却足以安放心灵。
 
 ## 博客平台
 
