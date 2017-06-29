@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 对王阳明心学的一些感想
+title: 关于阳明心学的胡思乱想
 category: 聪明的学习者
 tags: 认知
 keywords: 认知,行动
