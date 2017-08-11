@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 这个时代的智商税
+title: 时代的智商税思考
 category: 生活
 keywords: 智商税, 反省，认知
 ---
