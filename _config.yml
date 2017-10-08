@@ -1,8 +1,8 @@
 # Site settings
-title: 万贻平的博客
+title: 刀刀的博客
 email: wyp0517@126.com
 description: > # this means to ignore newlines until "baseurl:"
-  万贻平的博客
+  刀刀的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://wanyiping.com # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
