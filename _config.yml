@@ -1,12 +1,12 @@
 # Site settings
-title: 刀刀的博客
-email: wyp0517@126.com
+title: Yuning的博客
+email: yuning.qiu.gd@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  刀刀的博客
+  Yuning的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://wanyiping.com # the base hostname & protocol for your site
+url: http://ynqiu.top # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Wan YiPing
+author: Yuning Qiu
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -15,21 +15,22 @@ recent_num: 20
 
 # Social account
 
-github: wanyiping
+github: ynqiu
 
 
 # avatar and Favicon
-avatar: /assets/img/wanyiping.png
-favicon: /assets/img/wanyiping.ico
+# image for the head
+avatar: /imgs/head.png
+favicon: /imgs/head.ico
 
 # disqus config
 disqus:
-  shortname: wanyiping-com
+  shortname: ynqiu-top
 
 # google analytics config
 ga:
   id: UA-107747540-1
-  url: https://wanyiping.github.io
+  url: https://ynqiu.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html

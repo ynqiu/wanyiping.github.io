@@ -3,7 +3,7 @@ title: My Blog
 layout: post
 ---
 
-## 用作品构建人生的意义
+## 
 
 七十多岁的怀特在低头写作，神情专注。
 ![怀特的小屋](https://github.com/wanyiping/wanyiping.github.io/blob/master/assets/img/my_blog.jpg?raw=true)
