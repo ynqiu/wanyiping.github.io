@@ -20,8 +20,8 @@ github: ynqiu
 
 # avatar and Favicon
 # image for the head
-avatar: /imgs/head.png
-favicon: /imgs/head.ico
+avatar: /assets/img/wangyiping.png
+favicon: /assets/img/wangyiping.ico
 
 # disqus config
 disqus:
